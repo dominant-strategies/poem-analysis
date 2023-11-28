@@ -1,0 +1,1906 @@
+Removing the Database and the nodelogs
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+136830
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+141364
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+145684
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+149975
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+154603
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+158943
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+163353
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+167943
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+172538
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+176764
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+181217
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+185629
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+189809
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+194230
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+198699
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+203062
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+207213
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+211485
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+215637
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+220070
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+224221
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+228586
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+233015
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+237408
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+241559
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+245723
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+250064
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+254262
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+258605
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+262721
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+267098
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+271247
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+275562
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+280060
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+284867
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+287979
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+292526
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+296346
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+300485
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+304919
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+309059
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+313288
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+317674
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+321877
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+326116
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+330418
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+334727
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+338751
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+342856
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+347098
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+351383
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+355892
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+360041
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+364427
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+369130
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+373813
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+378305
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+382587
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+386760
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+390830
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+395316
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+399525
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+403789
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+407838
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+412028
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+416257
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+420704
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+425111
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+429322
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+433714
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+437814
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+442131
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+446312
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+450502
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+454750
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+458986
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+462841
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+467019
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+471132
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+475263
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+479747
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+484007
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+488166
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+492770
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+497133
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+501742
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+506003
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+509947
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+514057
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+517957
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+522045
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+526272
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+530532
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+534672
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+538761
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+542662
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+546702
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+551017
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+555272
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
+Stop the Miner
+make[1]: Entering directory '/root/quai-cpu-miner'
+Stopping all Quai Network CPU Miners, please wait until terminated.
+559524
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Miner stopped
+Stop the Node
+make[1]: Entering directory '/root/go-quai'
+Node stopped
+Removing the Database and the nodelogs
+Sleep for 30
+Start Node
+make[1]: Entering directory '/root/go-quai'
+mkdir nodelogs
+make[1]: Leaving directory '/root/go-quai'
+Starting the Miner on 0-0
+make[1]: Entering directory '/root/quai-cpu-miner'
+make[1]: Leaving directory '/root/quai-cpu-miner'
+Going back to go-quai
